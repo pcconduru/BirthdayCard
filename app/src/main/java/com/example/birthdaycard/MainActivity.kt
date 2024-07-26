@@ -72,3 +72,4 @@ fun GreetingText(mensagem: String, de: String, para: String, modifier: Modifier 
         )
     }
 }
+fun GreetingImage(mensagem: String, de: String, para: String, modifier: Modifier = Modifier)
